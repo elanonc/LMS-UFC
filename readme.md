@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="#-projeto">🖥️ Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-figma">🖥️ Equipe</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-figma">🙎 Equipe</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">🚀 Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-execução">👨‍💻 Execução</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-license">📝 License</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -14,12 +14,12 @@
 
 Aplicação para o trabalho final da disciplina de Linguagens de Marcação e Scripts
 
-## 💻 Equipe
+## 🙎 Equipe
 
-- Elano Nunes Caitano - Ceará
-- Kaio - Flamengo
-- Fluminense
-- Palmeiras
+- Elano Nunes - [Página do Ceará](https://github.com/elanonc/cearasc)
+- Evynne Avelino - [Fluminense/Pagina Inicial](https://github.com/EvynneAv/LMS/tree/main/Linguagens%20de%20marca%C3%A7%C3%A3o%20e%20scripts/Trabalho%20final)
+- Josias Batista - [Palmeiras](https://github.com/josiasdev/LMS-2023.2/tree/main/Trabalho)
+- Kaio Portela - [Flamengo](https://github.com/kaiop00/LMS.2023.2/tree/main/flamengo01)
 
 ## 🚀 Tecnologias
 
