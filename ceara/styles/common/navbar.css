@@ -59,3 +59,18 @@ header nav a:hover {
     width: 16px;
     height: 16px;
 }
+
+@media screen and (max-width: 600px) {
+    .header-container {
+        padding-inline: 10px;
+        margin-top: 20px;
+    }
+
+    .navpage {
+        gap: 30px;
+    }
+
+    .logo, .social-media a, .icon {
+        display: none;
+    }
+}
